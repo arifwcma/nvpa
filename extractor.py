@@ -16,9 +16,14 @@ def extract(row, col):
     def ndvi_month(s, e):
         col = (ee.ImageCollection('COPERNICUS/S2_SR_HARMONIZED')
                .filterBounds(tile)
-               .filterDate(s, e))
-        mos = col.mosaic()
-        return mos.normalizedDifference(['B8','B4']).rename('ndvi').clip(tile)
+               .filterDate(s, e)
+               .select(['B4','B8']))
+        nd = ee.Image(ee.Algorithms.If(
+            col.size().gt(0),
+            col.mosaic().normalizedDifference(['B8','B4']).rename('ndvi'),
+            ee.Image.constant(-9999).rename('ndvi')
+        ))
+        return nd.clip(tile)
 
     start = datetime.date(2019,1,1)
     for k in range(3):
@@ -29,7 +34,7 @@ def extract(row, col):
         task = batch.Export.image.toDrive(
             image=img,
             description=f'NDVI_{tag}_r{row}_c{col}',
-            folder='WCMA_NDVI_TEST',
+            folder='WCMA_NDVI_TEST2',
             fileNamePrefix=f'NDVI_10m_{tag}_r{row}_c{col}',
             region=tile.transform('EPSG:4326',1),
             scale=10,
@@ -37,5 +42,6 @@ def extract(row, col):
         )
         task.start()
         print(f"Row {row}; Col {col}; Month {tag} initiated")
+
 
 extract(0,0)
