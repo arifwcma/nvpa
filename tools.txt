@@ -1,0 +1,378 @@
+--REPLY above this line to respond--
+We’ve made an update to your ticket SR#1443155 - New Dell Desktop OnBoarding for Arif R / WCMA-2DSM2C4:
+ 
+Hi Arif, cc Nicole,
+
+This is to update that I've generally completed app installs on your new desktop.
+
+Note that the Brother printer install needs to be done when the unit is connected to the computer.  Give me a call when you're ready and we'll have it done separately.
+
+This ticket will now be closed.
+
+Regards,
+Chris
+
+
+Steps Performed
+========================
+-   Completed installs
+Add my user (m.rahman) to docker-user group - DONE
+
+WSL Update
+Poweshell: wsl --update
+DONE
+
+Docker Desktop
+
+Add C:\Program Files\PostgreSQL\17\bin to PATH environment variable / DONE - pls check
+
+Anaconda / https://www.anaconda.com/download
+
+CUDA / https://developer.nvidia.com/cuda-downloads
+
+Android Studio / https://developer.android.com/codelabs/basic-android-kotlin-compose-install-android-studio#0
+
+Visual Studio (Only .NET desktop development component is sufficient)
+https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Preview&version=VS2022&source=VSLandingPage&cid=2060&passive=false
+
+Visual Studio Code
+https://code.visualstudio.com/docs/?dv=win64user
+
+
+Unity 3D. First please install Unity Hub. After that, open the program and install the latest Unity3D from there.
+/ https://unity.com/download
+**Needs a login / we can do Unity 3D along with the Brother printer install
+
+JetBrains Rider / https://www.jetbrains.com/rider/download/?section=windows
+
+Done Dell update
+
+
+Next Steps
+========================
+-  Completed
+
+
+
+View Ticket
+ 
+ 
+Discussion
+Christopher Dacera
+1/09/2025 10:41 AM-12:13 PM
+
+Hi Arif, cc Nicole,
+
+This is to update that I've generally completed app installs on your new desktop.
+
+Note that the Brother printer install needs to be done when the unit is connected to the computer.  Give me a call when you're ready and we'll have it done separately.
+
+This ticket will now be closed.
+
+Regards,
+Chris
+
+
+Steps Performed
+========================
+-   Completed installs
+Add my user (m.rahman) to docker-user group - DONE
+
+WSL Update
+Poweshell: wsl --update
+DONE
+
+Docker Desktop
+
+Add C:\Program Files\PostgreSQL\17\bin to PATH environment variable / DONE - pls check
+
+Anaconda / https://www.anaconda.com/download
+
+CUDA / https://developer.nvidia.com/cuda-downloads
+
+Android Studio / https://developer.android.com/codelabs/basic-android-kotlin-compose-install-android-studio#0
+
+Visual Studio (Only .NET desktop development component is sufficient)
+https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Preview&version=VS2022&source=VSLandingPage&cid=2060&passive=false
+
+Visual Studio Code
+https://code.visualstudio.com/docs/?dv=win64user
+
+
+Unity 3D. First please install Unity Hub. After that, open the program and install the latest Unity3D from there.
+/ https://unity.com/download
+**Needs a login / we can do Unity 3D along with the Brother printer install
+
+JetBrains Rider / https://www.jetbrains.com/rider/download/?section=windows
+
+Done Dell update
+
+
+Next Steps
+========================
+-  Completed
+
+
+Christopher Dacera
+1/09/2025 9:00 AM-10:30 AM
+
+
+
+Steps Performed
+========================
+-  Continued working on App installs
+-  Got assistance from Nicole to power on Arif's new desktop
+-  Discussed with Savio on the app list and installers
+
+Completed
+- AWS CLI / https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+- WSL / https://learn.microsoft.com/en-us/windows/wsl/install
+- PyCharm / https://www.jetbrains.com/pycharm/download/?section=windows
+- Python / https://www.python.org/downloads/
+- GIT bash / https://git-scm.com/downloads
+
+
+
+
+Next Steps
+========================
+-  In progress
+-  Installing - Anaconda / https://www.anaconda.com/download
+-
+Christopher Dacera
+22/08/2025 9:55 AM-10:30 AM
+
+
+
+
+Steps Performed
+========================
+-  Worked with Arif
+-  MS Power Toys / Installed
+Completed SMS install
+-
+
+Next Steps
+========================
+-  In progress
+-
+-
+Mohammed Arifur Rahman
+22/08/2025 9:30 AM-
+
+You don't often get email from arif.rahman@wcma.vic.gov.au. Learn why this is important
+
+OFFICIAL
+
+Hi Chris,
+
+Thank you for your effort in setting up my PC. I just wanted to let you know that I will be away after 3 PM today until 2 September. If I could give it a test run for an hour or so before I leave today, that would give you enough time to fix any potential issues in between.
+
+-Arif
+
+Arif Rahman
+
+Analyst Programmer
+Direct +61 (03) 5382 9917
+24 Darlot Street, Horsham Victoria 3400
+Office Hours 8.30am ‑ 4.30pm (or by appointment)
+Horsham
+
+Are you looking for flood information or advice?
+This can be found on our website; Wimmera CMA | Flood advice (wcma.vic.gov.au)
+
+ Working for a healthy Wimmera catchment
+www.wcma.vic.gov.au
+
+
+
+Wimmera CMA acknowledges the Traditional Owners of country throughout Australia and recognises their continuing
+connection to land, waters and community. We pay our respects to elders both past and present.
+Please consider the environment before printing this email.
+This email, and any attachments, may contain privileged and confidential information. If you are not the intended recipient, you may not distribute or reproduce this e-mail or the attachments. If you have received this message in error, please notify us by return email.
+
+From: Arif Rahman <arif.rahman@wcma.vic.gov.au>
+Sent: Wednesday, August 20, 2025 4:48 PM
+To: Otto Helpdesk <support@ottoit.com.au>; Nicole Netherway <Nicole.Netherway@wcma.vic.gov.au>
+Subject: Re: SR#1443155/New Dell Desktop OnBoarding for Arif R / WCMA-2DSM2C4 - Your ticket has been updated
+
+OFFICIAL
+
+Hi Chris,
+
+As I left a note on the PC (notepad), I selected the required items. It is okay for you to proceed - just wanted to confirm.
+
+-Arif
+
+Arif Rahman
+
+Analyst Programmer
+Direct +61 (03) 5382 9917
+24 Darlot Street, Horsham Victoria 3400
+Office Hours 8.30am ‑ 4.30pm (or by appointment)
+
+Horsham
+
+Are you looking for flood information or advice?
+This can be found on our website; Wimmera CMA | Flood advice (wcma.vic.gov.au)
+
+
+Working for a healthy Wimmera catchment
+www.wcma.vic.gov.au
+
+
+
+Wimmera CMA acknowledges the Traditional Owners of country throughout Australia and recognises their continuing
+connection to land, waters and community. We pay our respects to elders both past and present.
+**
+**Please consider the environment before printing this email.
+This email, and any attachments, may contain privileged and confidential information. If you are not the intended recipient, you may not distribute or reproduce this e-mail or the attachments. If you have received this message in error, please notify us by return email.
+Mohammed Arifur Rahman
+20/08/2025 4:48 PM-
+
+You don't often get email from arif.rahman@wcma.vic.gov.au. Learn why this is important
+
+OFFICIAL
+
+Hi Chris,
+
+As I left a note on the PC (notepad), I selected the required items. It is okay for you to proceed - just wanted to confirm.
+
+-Arif
+
+Arif Rahman
+
+Analyst Programmer
+Direct +61 (03) 5382 9917
+24 Darlot Street, Horsham Victoria 3400
+Office Hours 8.30am ‑ 4.30pm (or by appointment)
+Horsham
+
+Are you looking for flood information or advice?
+This can be found on our website; Wimmera CMA | Flood advice (wcma.vic.gov.au)
+
+ Working for a healthy Wimmera catchment
+www.wcma.vic.gov.au
+
+
+
+Wimmera CMA acknowledges the Traditional Owners of country throughout Australia and recognises their continuing
+connection to land, waters and community. We pay our respects to elders both past and present.
+Please consider the environment before printing this email.
+This email, and any attachments, may contain privileged and confidential information. If you are not the intended recipient, you may not distribute or reproduce this e-mail or the attachments. If you have received this message in error, please notify us by return email.
+Christopher Dacera
+20/08/2025 12:39 PM-1:00 PM
+
+Hi Arif,
+
+I'm doing SMS Install.
+
+Can you kindly check which components to install?
+
+
+
+
+
+Thanks,
+Chris
+
+Steps Performed
+========================
+- https://portal.agleader.com/community/s/article/3529?language=en_US
+SMS install
+Basic Setting
+-
+-
+
+Next Steps
+========================
+-  Awaiting response
+
+
+Christopher Dacera
+20/08/2025 11:13 AM-11:35 AM
+
+
+
+Steps Performed
+========================
+-  Sorted Brother P-Touch install
+-  Got Sn info from Arif:  K0Z403723
+Model:  QL-1110NWB
+
+-  Install - PostgreSQL-17.6.1
+
+Next Steps
+========================
+-  In progress
+Christopher Dacera
+20/08/2025 9:26 AM-10:30 AM
+
+
+
+Steps Performed
+========================
+-  Got Arif to login to new Desktop
+-  Completed installs
+
+ArcMap
+ArcGIS Pro
+QGIS 3.34.10 'Prizren'
+Brother QL-1100NWB Driver install
+-
+
+Next Steps
+========================
+-  In progress
+Christopher Dacera
+15/08/2025 9:01 AM-9:14 AM
+
+Hi Arif, cc Nicole,
+
+This is the ticket for new Dell Desktop
+
+I'm noting the list that you provided on here
+
+1. AWS CLI
+2. WSL
+3. PostGRE SQL Server/Client
+4. psycopg2 library: Open “Python Command Prompt” (after installing ArcGIS) and issue the command: conda install -c conda-forge psycopg2
+5. SMS (Ag Leader): https://portal.agleader.com/community/s/article/3529?language=en_US (SMS_v25_2_full at the right panel)
+6. 7-zip (or anything that can extract .war, .tar.gz)
+7. PyCharm
+8. Python
+9. GIT bash
+10. ArcGIS Pro
+11. ArcMap
+12. QGIS
+13. Brother printer installer
+14. P-Touch Editor
+15. Microsoft PowerToys (at Microsoft Store) Actions that require admin access, and which were previously approved:
+16. Add my user (m.rahman) to docker-user group
+17. WSL Update
+18. First run of Docker desktop (Run docker desktop and continue with the default options until you see it has initiated properly – will require admin access a few times on the way)
+19. Add C:\Program Files\PostgreSQL\17\bin to PATH environment variable (“17” can different – say, 17.1 – based on the latest version) New software request The following items have been approved by my supervisor (Joel Boyd):
+20. Anaconda
+21. CUDA. First check if it is already installed by issuing the command in CMD (nvcc --version) If no version is showed, please follow: https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html
+22. Android Studio – (keep all default options checked during setup so the Android SDK, Platform Tools, Emulator, and AVD components are installed.)
+23. Visual Studio (Only .NET desktop development component is sufficient)
+24. Visual Studio Code
+25. Unity 3D. First please install Unity Hub. After that, open the program and install the latest Unity3D from there.
+26. JetBrains Rider ** Please note that after all the installations, I may need to test everything to ensure it is working properly. I usually need a few passes to get them working on my personal machine, even with full access. We may need to go through a few back-and-forth adjustments to make everything work with just enough privileges without weakening WCMA network security.
+
+
+Steps Performed
+========================
+-  In progress with device on-boarding
+-
+-
+
+Next Steps
+========================
+-  In progress
+-
+-
+Christopher Dacera
+13/08/2025 11:08 AM-
+
+New Dell Desktop OnBoarding for Arif R / WCMA-2DSM2C4
