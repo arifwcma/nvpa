@@ -2,7 +2,7 @@ import json
 
 def get_grid():
     GEOJSON_PATH = "qg1/WCMA_BB.geojson"
-    CELL_M = 10000
+    CELL_M = 100000
     with open(GEOJSON_PATH) as f:
         gj = json.load(f)
     coords = gj["features"][0]["geometry"]["coordinates"][0]
